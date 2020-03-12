@@ -1,0 +1,23 @@
+{
+  "name": "nodeStudy",
+  "version": "1.0.0",
+  "description": "用于学习记录了Node知识",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GUMEIK/nodeStudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GUMEIK/nodeStudy/issues"
+  },
+  "homepage": "https://github.com/GUMEIK/nodeStudy#readme",
+  "dependencies": {
+    "node": "^13.10.1"
+  }
+}
